@@ -1,0 +1,25 @@
+@extends('layout')
+
+@section ('content')
+   
+   
+   <article class="introduccion">
+   <h1>Acerca de la pagina</h1>   
+   <p class="intro">La fase de la adolescencia caracteriza al ser humano que busca una nueva identidad. A menudo acumula experiencias de sufrimiento, soledad, dudas, ansiedad y confusión. Los cambios de humor que van desde la alegría (euforia) hasta la tristeza y la depresión, el duelo frente a la infancia perdida, los comportamientos antisociales, la necesidad de aceptación en grupos y la oposición a cualquier autoridad y personas que representan el control son parte de este camino. La soledad y el aislamiento también son comunes entre los adolescentes. Aunque la depresión no es una enfermedad silenciosa, rara vez se diagnostica en la práctica médica diaria. Se estima que solo el 34% de las personas con depresión buscan ayuda especializada y solo un tercio de las personas con depresión encuentran la ayuda que necesitan. La mayoría de las veces, las personas no pueden reconocer o nombrar su enfermedad y a menudo tienen quejas generales. La práctica habitual de las clínicas médicas ambulatorias es asumida cada vez más por profesionales de todas las especialidades médicas que no quieren o no pueden conocer a sus clientes con respecto a su historia de vida, personal, familiar, profesional, contexto social, pensamientos, sentimientos y comportamientos.
+<br></br>
+La depresión es uno de los factores de riesgo más relacionados con el suicidio. El aislamiento en personas con depresión tiende a aumentar los síntomas de la enfermedad. El distanciamiento de los amigos y las personas más cercanas, la falta de interés en el trabajo, el ocio y cualquier otra actividad cotidiana son características notables. Aquí, es importante enfatizar la necesidad de no confundir la tristeza y la depresión. Cuando hablamos de depresión, nos referimos a una enfermedad psiquiátrica que requiere atención especial.
+<br></br>
+Los pensamientos suicidas son frecuentes en la adolescencia, especialmente en las fases de mayores dificultades ante un factor estresante importante. La mayoría de las veces, son transitorios, no indican psicopatología ni necesidad de intervención. Sin embargo, cuando estos pensamientos son intensos y prolongados, aumenta el riesgo de provocar un comportamiento suicida. Los adolescentes son más propensos a la inmediatez y la impulsividad, y aún no tienen plena madurez emocional; por lo tanto, les resulta más difícil lidiar con el estrés agudo, como el final de una relación, situaciones que causan vergüenza o humillación, rechazo por parte del grupo social, fracaso escolar y pérdida de un ser querido. Estos eventos pueden actuar como desencadenantes de actos suicidas.
+<br></br>
+La ideación suicida se asocia con un mayor riesgo de futuros intentos de suicidio. La planificación del suicidio implica un alto riesgo de muerte. La presencia de ideas suicidas es, en sí misma, un signo importante de angustia psicológica y requiere atención adicional en la evaluación clínica. Puede haber un trastorno psiquiátrico que requiera un reconocimiento rápido y un tratamiento adecuado.
+<br></br>
+El comportamiento suicida se puede clasificar en tres etapas: ideación suicida (que puede variar desde pensamientos de muerte hasta intención de suicidio estructurada con o sin planificación suicida), suicidio consumado y el intento de suicidio que ocurre entre la ideación y el suicidio consumado.
+<br></br>
+Los efectos de los antecedentes familiares en el comportamiento suicida están mediados por factores genéticos y ambientales. La mayor prevalencia del suicidio está más asociada con la herencia de rasgos impulsivos y agresivos que con la enfermedad mental. También es importante la identificación psicológica con los seres queridos y la existencia de dinámicas perturbadas en ciertas familias. Uno debe estar alerta a la violencia doméstica y a los informes de abuso físico o sexual. En la adolescencia, además de los trastornos clásicos asociados con el suicidio, también se debe considerar el "déficit de atención con hiperactividad" y el "trastorno de conducta" descrito en el manual de diagnóstico y estadística de trastornos mentales (DSM-V), que puede ocurrir una exacerbación de otros trastornos mentales comórbidos, como la depresión, y un aumento de la impulsividad y las conductas de riesgo.
+<br></br>
+Dados estos enfoques, es necesario desarrollar acciones de tipo intervención para promover la salud mental de los adolescentes a fin de identificar y reducir los posibles riesgos de suicidio en esta población. El objetivo de esta investigación es analizar los resultados del desarrollo y la implementación de un programa de prevención del suicidio dirigido a adolescentes de entre 13 y 17 años.
+</p>
+</article>
+
+
+@endsection
